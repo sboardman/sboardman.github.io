@@ -1,0 +1,21 @@
+header {
+  background-color: black;
+  color: white;
+  font-family: "railway dots", geneva, sans-serif;
+}
+
+h1 {
+  font-size: 100px;
+}
+  
+.light {
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.right {
+  float: right;
+}
+
